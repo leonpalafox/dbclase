@@ -18,21 +18,21 @@
 
 # Introduccion
 
-En esta clase estudiaremos las diferentes técnicas de Machine Learning y sus apliaciones. Se veran tecnicas básicas y el estado del arte, asi como técnicas para evaluar cada algoritmo con diferentes sets de datos.
+En esta clase estudiaremos la definición de una base de datos. La estructura de una base de datos, así como las operaciones básicas de la misma. Aprenderemos SQL y mySQL.
 
 # Objetivo
 
-Los estudiantes serán capaces de implementar y validar diferentes técnicas de Machine Learning en diferentes sets de datos relacionados a distintos campos. los estudiantes aprenderan la diferencia entre aprendizaje sueprvisado y no supervisado.
+Los estudiantes serán capaces de levantar y modificar una base de datos, así como de realizar operaciones sencillas sobre las mismas. 
 
 # Estructura del Curso
 
 ## Horas de clase
 
-Esta clase será diario de 7:00 p.m a 10:00 p.m.
+Por definir
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/claseml/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dbclase/
 
 ## Horas de oficina
 
