@@ -117,6 +117,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 El curso no requiere de libros de texto adjuntos, sin embargo, los siguientes libros son útiles para dar seguimiento al curso:
 
+- Garcia-Molina, Hector. Database systems: the complete book. Pearson Education India, 2008.
 
 # Material especial para la clase
 
