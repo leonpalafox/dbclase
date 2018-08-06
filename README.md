@@ -24,9 +24,11 @@ Los estudiantes serán capaces de levantar y modificar una base de datos, así c
 
 # Estructura del Curso
 
+
 ## Horas de clase
 
-Por definir
+- Lunes 10:30 - 12:00
+- Miércoles 12:00 - 13:30
 
 ## Sitio web
 
@@ -40,12 +42,9 @@ Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo u
 
 La evaluación consistirá en:
 
-- El proyecto final será el 60% de la evaluación final.
-    - El proyecto final consistira en el uso de un técnica de Machine Learning en un set de datos de su preferencia, con su correspondiente diseño y evaluación.
-  - Pueden hacer equipos de hasta tres personas.
-  - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
+- El proyecto final será el 40% de la evaluación final.
 
-- El restante 40% será distribuido de la siguiente forma:
+- El restante 60% será distribuido de la siguiente forma:
   - Dos examenes. 
   - Dos tareas.
   - Participación en clase
@@ -58,9 +57,49 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Temario
 
-1.  Conceptos Básicos
+1. Conceptos Básicos
     1. Estructura de archivos, almacenamiento físico e indexación.
-    2. Definición de un Sistema Manejador de Base de Datos  (SMBD).
+    2. Surgimiento y definición de Bases de Datos.
+    3. Clasificación de acuerdo a la consulta, comercialización y localización.
+    4. Definición de un Sistema Manejador de Base de Datos  (SMBD).
+    5. Estructura y componentes de un SMBD.
+    6. Requerimientos operacionales (integridad, independencia, seguridad, concurrencia)
+    7. Abstracción de la Información
+
+2. Modelo de Datos y Diseño de una BD
+    1. Conceptos generales de un modelo de datos.
+    2. Modelo de datos jerárquico y modelo de datos en red
+    3. Modelos lógicos basados en objetos 
+    4. Modelo de datos relacional
+    5. Cardinalidad de Mapeo 
+    6. Diagramas Entidad – Relación (E-R)
+    7. Entidades, relaciones, atributos y llaves
+    8. Consideraciones y pasos en la construcción de diagramas E-R
+    9. Matriz de relaciones y solución de la relación muchos a muchos
+    10. Relaciones del Modelo Recursivo
+    11. Reducción del Modelo E-R a tablas
+    12. El Lenguaje de Modelado Unificado UML
+
+3. Consideraciones en el diseño
+    1. Operaciones básicas del álgebra relacional 
+    2. Concepto de Normalización
+    3. Dependencias Funcionales y formas normales
+    4. Dependencias Multivalores
+    5. Restricciones de dominio e Integridad referencial 
+
+4. Lenguajes comerciales de consulta
+    1. Lenguaje SQL, ventajas y desventajas
+    2. Estándares de SQL 
+    3. Lenguaje de definición de datos y restricciones
+    4. Lenguaje de manipulación de datos
+    5. Inserción, modificación y borrado de registros
+    6. Consultas simples y ordenamiento
+    7. Expresiones compuestas y campos calculados
+    8. Agrupamientos y funciones de grupo
+    9. Consultas avanzadas y subconsultas
+    10. Lenguaje de consulta en entorno multiusuario
+    11. Optimización de índices y uso de vistas
+    12. Disparadores
 
 
 
