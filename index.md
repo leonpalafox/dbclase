@@ -105,7 +105,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_1_2018.pdf)
 - [Clase 2 - Estructura de una DB](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_2_2018.pdf)
-
+- [Clase 3 - Historia de una DB](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_3_2018.pdf)
 
 
 
