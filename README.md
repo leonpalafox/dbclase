@@ -107,13 +107,16 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_1_2018.pdf)
 - [Clase 2 - Estructura de una DB](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_2_2018.pdf)
-- [Clase 3 - Historia de una DB](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_3_2018.pdf)
-
+- [Clase 4 - Normalización](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_4_2018.pdf)
 
 
 
 
 # Tareas
+
+- Tarea 1: Reportar y preparar presentación acerca de las formas normales.
+  - La presentación debe de ser corta, concisa y al punto.
+  - El reporte debe estar en PDF. Si pueden, usen Latex
 
 
 
