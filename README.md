@@ -118,7 +118,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
   - La presentación debe de ser corta, concisa y al punto.
   - El reporte debe estar en PDF. Si pueden, usen Latex
 
+# Forma de Evaluación
 
+- [Forma](https://goo.gl/forms/lJrC4apvylKwsI7n2)
 
 # Libros de texto
 
