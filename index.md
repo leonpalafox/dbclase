@@ -108,6 +108,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 3 - Historia de una DB](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_3_2018.pdf)
 - [Clase 4 - Normalización](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_4_2018.pdf)
 - [Clase 5 - Ejemplo en Clase](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_5_2018.pdf)
+- [Clase 6 - Ejemplo en Clase](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_6_2018.pdf)
 
 
 
