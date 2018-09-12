@@ -113,6 +113,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 7 - Ejemplo en Clase](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_7_2018.pdf)
 - [Clase 8 - Examén y Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_8_2018.pdf)
 - [Clase 9 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_9_2018.pdf)
+- [Clase 10 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_10_2018.pdf)
 
 
 
