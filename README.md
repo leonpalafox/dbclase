@@ -36,11 +36,8 @@ Clases, tareas, temario y políticas de calificaciones se encuentran disponibles
 
 Forma de Evaluación de Presentaciones
 
-{% raw %}
+[Cuestionario de Evaluación de Presentaciones](https://goo.gl/forms/wm6wUiBWxKlhXnNr2)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTixU3qgQhEtaj7fwiK5Lky5rOzt3eNl5ijE8YCCzEJtaBqg/viewform?embedded=true" width="640" height="2309" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
-
-{% endraw %}
 
 ## Horas de oficina
 
