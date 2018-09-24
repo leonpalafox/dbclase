@@ -33,6 +33,10 @@ Los estudiantes serán capaces de levantar y modificar una base de datos, así c
 
 Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dbclase/
 
+{% raw %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTixU3qgQhEtaj7fwiK5Lky5rOzt3eNl5ijE8YCCzEJtaBqg/viewform?embedded=true" width="640" height="2309" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+{% endraw %}
+
 ## Horas de oficina
 
 Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electornico lpalafox@up.edu.mx.
@@ -112,6 +116,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 7 - Ejemplo en Clase](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_7_2018.pdf)
 - [Clase 8 - Examén y Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_8_2018.pdf)
 - [Clase 9 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_9_2018.pdf)
+- [Clase 10 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_10_2018.pdf)
 
 
 

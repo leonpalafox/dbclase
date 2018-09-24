@@ -34,6 +34,12 @@ Los estudiantes serán capaces de levantar y modificar una base de datos, así c
 
 Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dbclase/
 
+Forma de Evaluación de Presentaciones
+
+{% raw %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTixU3qgQhEtaj7fwiK5Lky5rOzt3eNl5ijE8YCCzEJtaBqg/viewform?embedded=true" width="640" height="2309" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+{% endraw %}
+
 ## Horas de oficina
 
 Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electornico lpalafox@up.edu.mx.
