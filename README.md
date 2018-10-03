@@ -8,6 +8,7 @@
 - [Absentismo](#absentismo)
 - [Temario](#temario)
 - [Slides](#slides)
+- [Ejercicios en Python](#ejercicios-en-python)
 - [Tareas](#tareas)
 - [Libros de Texto](#libros-de-texto)
 - [Material Especial requerido para la clase](#material-especial-para-clase)
@@ -119,8 +120,12 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 8 - Examén y Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_8_2018.pdf)
 - [Clase 9 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_9_2018.pdf)
 - [Clase 10 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_10_2018.pdf)
+- [Clase 11 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_11_2018.pdf)
+- [Clase 12 - Presentaciones/Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_12_2018.pdf)
 
+# Ejercicios en Python
 
+- Introducción a Python [Ejercicio 1](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)[Ejercicio 2](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/intro_python_2.ipynb)
 
 
 # Tareas
