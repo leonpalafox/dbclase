@@ -126,6 +126,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Ejercicios en Python
 
 - Introducción a Python [Ejercicio 1](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)[Ejercicio 2](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/intro_python_2.ipynb)
+- [Ejercicio Futbol](https://colab.research.google.com/drive/1DgyLQQ6gEqU-34x-jQTTbileVuXsrGZs)
 
 
 # Tareas
