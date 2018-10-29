@@ -122,11 +122,14 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 10 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_10_2018.pdf)
 - [Clase 11 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_11_2018.pdf)
 - [Clase 12 - Presentaciones/Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_12_2018.pdf)
+- [Clase 13 - Álgebra Relacional](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_13_2018.pdf)
+- [Clase 14 - SQL](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_14_2018.pdf)
 
 # Ejercicios en Python
 
 - Introducción a Python [Ejercicio 1](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)[Ejercicio 2](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/intro_python_2.ipynb)
 - [Ejercicio Futbol](https://colab.research.google.com/drive/1DgyLQQ6gEqU-34x-jQTTbileVuXsrGZs)
+- [Ejercicio SQL](https://github.com/leonpalafox/dbclase/blob/master/notebooks/ExamplesSQL.ipynb)
 
 
 # Tareas
