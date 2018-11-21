@@ -122,6 +122,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 14 - SQL](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_14_2018.pdf)
 - [Clase 15 - SQL](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_15_2018.pdf)
 - [Clase 16 - SQL](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_16_2018.pdf)
+- [Clase 17 - Clase Final](https://github.com/leonpalafox/dbclase/blob/master/Slides/Clase_17_2018.pdf)
 
 # Ejercicios en Python
 
